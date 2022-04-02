@@ -30,3 +30,6 @@ Network-wide adblocker using Raspberry Pi 3, PiHole, and Netgear R6080 Router
 * Navigate to Group Management > Adlists
 * Copy and paste URLs you want blocked from your network. You can find some here: https://firebog.net/
 * After adding the links, be sure to update your gravity list. 
+
+### Usage
+* For your devices to work with your PiHole device, you must change their DNS settings to use your PiHole's IP address.
